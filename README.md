@@ -20,8 +20,7 @@ Welcome to the Market Basket Analysis project! This project utilizes the Apriori
 
 Market Basket Analysis is a data mining technique that identifies associations between products in a dataset. It helps businesses understand customer purchasing behavior by revealing patterns of items often bought together. This analysis is fundamental to retail strategy, as it enables businesses to optimize product placement, enhance customer experience, and drive sales.
 Market Basket Analysis is one of the key techniques used by large retailers to uncover associations between items. It works by looking for combinations of items that occur together frequently in transactions. To put it another way, it allows retailers to identify relationships between the items that people buy.
-
-Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness
+Association Rules are widely used to analyze retail basket or transaction data, and are intended to identify strong rules discovered in transaction data using measures of interestingness.
 
 ## Apriori Algorithm
 
