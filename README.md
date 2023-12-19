@@ -14,7 +14,6 @@ Welcome to the Market Basket Analysis project! This project utilizes the Apriori
 - [Features](#features)
 - [Dataset](#dataset)
 - [Pruning](#pruning)
-- [Apriori Algorithm](#apriori-algorithm)
 - [Technologies Used](#technologies-used)
 
 ## Market Basket Analysis
